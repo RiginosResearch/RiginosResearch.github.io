@@ -2,4 +2,7 @@
 title: "RiginosWebPage"
 ---
 
-This is a website for our research. We have a lot of work to do!
+This is a website for our research! We have a lot of work to do!
+
+![](photos/multiverse.JPG)
+
