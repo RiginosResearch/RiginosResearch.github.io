@@ -1,8 +1,11 @@
 ---
 title: "RiginosWebPage"
+editor_options: 
+  chunk_output_type: console
 ---
 
 This is a website for our research! We have a lot of work to do!
 
 ![](photos/multiverse.JPG)
+![](photos/cynthia.jpeg)
 
