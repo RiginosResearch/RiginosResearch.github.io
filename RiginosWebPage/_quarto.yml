@@ -3,11 +3,18 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Riginos Research Group, University of Queensland"
+  title: "Riginos Research Group"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: people.qmd
+        text: People
+    # right:
+    #   - text: "{{< iconify fa6-brands researchgate >}}"
+    #     href: "https://www.researchgate.net/profile/Kevin-Bairos-Novak/"
+  page-footer:
+    left: "&copy; Cynthia Riginos, 2024"
      
 
 format:
@@ -15,7 +22,9 @@ format:
     theme: yeti
     css: styles.css
     toc: true
+    toc-depth: 3
 
 editor: visual
+lightbox: true
 
 

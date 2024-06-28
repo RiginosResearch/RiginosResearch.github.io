@@ -1,9 +1,58 @@
 ---
-title: "About"
+title: "People"
 ---
 
-About this site
+::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-0s}
 
-```{r}
-1 + 1
-```
+### Prof. Cynthia Riginos, Chief Investigator
+
+::: {layout="[ 30, 70 ]"}
+::: {#first-column}
+![](photos/cynthia.jpg)
+:::
+
+::: {#second-column column.width="70%"}
+**Cynthia Riginos** is a Professor in the School of Biological Sciences at the University of Queensland. She is an evolutionary biologist with wide-ranging interests spanning population genomics, land & seascape genetics, molecular ecology, phylogeography, biogeography, speciation, hybridisation, invasive species, and conservation. Overall, her research seeks to understand how marine biodiversity is created, where that biodiversity has accumulated, and how this knowledge can be used preserve biodiversity and the processes that create it in a changing world. Cynthia is especially fond of reef fishes, molluscs, and corals but easily distracted by other taxa as well. She is an associate editor for Molecular Ecology, Molecular Ecology Resources, and the Journal of Biogeography. She is a founding member of both the ***Diversity in the Indo-Pacific Network*** (DIPnet), a consortium seeking to promote open data exchange and collaboration among genetic research groups and students working in the Indo-Pacific region, and the ***Genetic Observatories Metadatabase*** (GEOME), an infrastructure for linking accessioned genotypes with their spatial and other collecting metadata. Cynthia has been at UQ since 2006 and previously held an endowed postdoctoral fellowship in Molecular Evolution & Comparative Genomics at Duke University. Her PhD (2000) and Master’s (1998) degrees are both from the University of Arizona in Ecology and Evolutionary Biology.
+:::
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-0s}
+
+### Prof. Cynthia Riginos, Chief Investigator
+
+::: {layout="[ 30, 70 ]"}
+::: {#first-column}
+![](photos/cynthia.jpg)
+:::
+
+::: {#second-column column.width="70%"}
+**Cynthia Riginos** is a Professor in the School of Biological Sciences at the University of Queensland. She is an evolutionary biologist with wide-ranging interests spanning population genomics, land & seascape genetics, molecular ecology, phylogeography, biogeography, speciation, hybridisation, invasive species, and conservation. Overall, her research seeks to understand how marine biodiversity is created, where that biodiversity has accumulated, and how this knowledge can be used preserve biodiversity and the processes that create it in a changing world. Cynthia is especially fond of reef fishes, molluscs, and corals but easily distracted by other taxa as well. She is an associate editor for Molecular Ecology, Molecular Ecology Resources, and the Journal of Biogeography. She is a founding member of both the ***Diversity in the Indo-Pacific Network*** (DIPnet), a consortium seeking to promote open data exchange and collaboration among genetic research groups and students working in the Indo-Pacific region, and the ***Genetic Observatories Metadatabase*** (GEOME), an infrastructure for linking accessioned genotypes with their spatial and other collecting metadata. Cynthia has been at UQ since 2006 and previously held an endowed postdoctoral fellowship in Molecular Evolution & Comparative Genomics at Duke University. Her PhD (2000) and Master’s (1998) degrees are both from the University of Arizona in Ecology and Evolutionary Biology.
+:::
+:::
+:::
+
+
+
+
+
+### Dr. Iva Popovic, AIMS Research Scientist
+
+![](photos/iva.jpg)
+
+### Dr. Katharine Prata, AIMS Post-doc
+
+![](photos/kat.jpg)
+
+<!-- ### Dr. Holland Elder, AIMS Post-doc -->
+
+<!-- ### Magena Marzonie -->
+
+### Chuan Lei
+
+![](photos/cynthia.jpg)
+
+### Zoe M
+

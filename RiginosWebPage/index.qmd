@@ -1,11 +1,22 @@
 ---
-title: "RiginosWebPage"
+title: "{{< animate fadeIn 'Riginos Research Group' >}}"
+subtitle: "{{< animate fadeIn 'marine evolutionary genetics' >}}"
 editor_options: 
   chunk_output_type: console
+toc: false
 ---
+# Welcome to our lab webpage!
 
-This is a website for our research! We have a lot of work to do!
+Our research group uses genetic markers as tools for understanding dispersal and gene flow, often with conservation implications and most frequently focusing on highly dispersive marine animals such as fishes, mussels, and corals. We also study how gene flow and natural selection affect genomic variation and limit gene exchange across genomes, populations, and species.
 
-![](photos/multiverse.JPG)
-![](photos/cynthia.jpeg)
+![](photos/corals.jpg)
 
+Major research themes:
+
+**Connectivity across land and seascapes** – How do habitat landscapes, ocean depth, and oceanography affect movements of individuals and genes? Can we identify source and linking populations in order to prioritise areas for conservation? How does environmentally mediated selection shape spatial patterns of population genetic variation?
+
+**Stochasticity in planktonic dispersal** – How does high temporal variability in sources of juvenile settlers affect evolutionary dynamics especially local adaptation? Does phenotypic plasticity allow niche specialisation in the face of high gene flow?
+
+**Biological invasions, historical and modern** – What factors facilitate species expanding their ranges and colonising new habitat? How do colonising populations adapt to novel environments? Does hybridisation with local species enhance invasiveness and rapid evolution?
+
+![](photos/cynthia_multiverse.jpg)
