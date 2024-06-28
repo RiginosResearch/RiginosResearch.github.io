@@ -10,7 +10,6 @@ title: "People"
 ![](photos/cynthia.jpg)
 
 #### AIMS & UQ Chief Investigator
-
 :::
 
 ::: {#second-column}
@@ -26,14 +25,13 @@ title: "People"
 
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/iva.jpg)
 
 </div>
-#### AIMS Research Scientist
 
+#### AIMS Research Scientist
 :::
 
 ::: {#second-column}
@@ -44,80 +42,74 @@ Email: iva.popovic\@uq.net.au
 :::
 :::
 
-----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Dr. Katharine Prata
 
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/kat.jpg)
 
 </div>
-#### AIMS Post-doc
 
+#### AIMS Post-doc
 :::
+
 ::: {#second-column}
 **Spatial population genetics**
 
 Email: kepra3\@gmail.com
 
-My research focuses on the spatial population genomics of corals. I am currently working on estimating per-generation dispersal distances and genetic neighbourhoods in corals using classical population genetic theory. Estimating dispersal distances and likely mating neighbourhoods is important for accurately predicting demographic processes as well as the potential movement of adaptive genes.
-My other interests are inferring demographic histories, hybridisation, inbreeding, environmental niche differentiation in cryptic coral species and combining photogrammetric mapping with high resolution genomic data to understand population genetic processes.
+My research focuses on the spatial population genomics of corals. I am currently working on estimating per-generation dispersal distances and genetic neighbourhoods in corals using classical population genetic theory. Estimating dispersal distances and likely mating neighbourhoods is important for accurately predicting demographic processes as well as the potential movement of adaptive genes. My other interests are inferring demographic histories, hybridisation, inbreeding, environmental niche differentiation in cryptic coral species and combining photogrammetric mapping with high resolution genomic data to understand population genetic processes.
 :::
 :::
 :::
-
-
 
 <!-- ### Dr. Holland Elder, AIMS Post-doc -->
 
 <!-- ### Magena Marzonie -->
 
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Chuan Lei
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/chuan.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
 **Hybrid speciation in anemonefishes**
 
-Supervisors: Hobbs, Cheney, & Riginos
-Email: c.lei@uq.net.au
-
+Supervisors: Hobbs, Cheney, & Riginos Email: c.lei\@uq.net.au
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Zoe Meziere
 
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/zoe.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
@@ -125,82 +117,73 @@ Email: c.lei@uq.net.au
 
 Supervisors: Riginos, Popovic, Pandolfi
 
-Email: z.meziere@uq.edu.au
-
+Email: z.meziere\@uq.edu.au
 :::
 :::
 :::
 
-
-
-
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Samantha Howitt
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/sam.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
 **Genomic analysis of Crown-of-Thorns seastars**
 
-Supervisors: Riginos & Popovic
-Email: s.howitt@uq.net.au
-
+Supervisors: Riginos & Popovic Email: s.howitt\@uq.net.au
 :::
 :::
 :::
 
-
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Ilha Byrne
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/ilha.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
 **Conservation genomics of corals**
 
-Supervisors: Riginos, Popovic & Beger
-Email: i.byrne@uq.net.au
-
+Supervisors: Riginos, Popovic & Beger Email: i.byrne\@uq.net.au
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Hisatake Ishida
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/take.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
@@ -208,55 +191,51 @@ Email: i.byrne@uq.net.au
 
 Supervisors: Chan & Riginos
 
-Email: hisatake.ishida@uq.net.au
-
+Email: hisatake.ishida\@uq.net.au
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Kimberley Dunbar
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/kimberley.jpg)
 
 </div>
-#### PhD Candidate
 
+#### PhD Candidate
 :::
 
 ::: {#second-column}
 **Dispersal, gene flow, and range shifts of marine organisms**
 
-Supervisors: Riginos & Pandolfi 
+Supervisors: Riginos & Pandolfi
 
-Email: kimberley.dunbar@uq.net.au
-
-
-
+Email: kimberley.dunbar\@uq.net.au
 :::
 :::
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-1s}
 ### Andrew Khalil
+
 ::: {layout="[ 20, 80 ]"}
 ::: {#first-column}
-
 <div>
 
 ![](photos/andrew.jpg)
 
 </div>
-#### MSc Candidate
 
+#### MSc Candidate
 :::
 
 ::: {#second-column}
@@ -264,12 +243,10 @@ Email: kimberley.dunbar@uq.net.au
 
 Supervisors: Riginos & Klein
 
-Email: andrew.khalil@uq.edu.au
-
+Email: andrew.khalil\@uq.edu.au
 :::
 :::
 :::
-
 
 <!-- ### Kimberley Dunbar -->
 
@@ -281,8 +258,7 @@ Email: andrew.khalil@uq.edu.au
 
 <!-- Email: kimberley.dunbar\@uq.net.au -->
 
-
-# Lab Alumi
+# Lab Alumni
 
 ## Post-docs
 
@@ -306,119 +282,146 @@ Environmental consulting
 
 Post-doc, University of Queensland
 
----
+------------------------------------------------------------------------
+
 ## PhDs
 
 ### Ethan Briggs
+
 Post-doc, University of Idaho
 
 ### Vhon Garcia
+
 Post-doc, University of Adelaide
 
 ### Kat Prata
+
 PhD 2022
 
 ### Dean Blower
+
 PhD 2020
 
-### Pim Bongaerts 
-Primary supervisor: Hoegh-Guldberg
-PhD 2010 – Curator, California Academy of Sciences
+### Pim Bongaerts
 
-### Carmen da Silva 
-Primary supervisor: Wilson
-PhD 2019 – Endeavour Fellow 
+Primary supervisor: Hoegh-Guldberg PhD 2010 – Curator, California Academy of Sciences
 
-### Jenny Giles 
-PhD 2014
-Shark Biologist and Wildlife Forensic Scientist
+### Carmen da Silva
 
-### James Hereward 
-Primary supervisor: Gimme Walter
-PhD 2013– Research Associate, University of Queensland
+Primary supervisor: Wilson PhD 2019 – Endeavour Fellow
+
+### Jenny Giles
+
+PhD 2014 Shark Biologist and Wildlife Forensic Scientist
+
+### James Hereward
+
+Primary supervisor: Gimme Walter PhD 2013– Research Associate, University of Queensland
 
 ### Jude Keyse
+
 PhD 2015 – Inala State High School
 
 ### Libby Liggins
-PhD 2014 – Senior Lecturer, Massey University 
+
+PhD 2014 – Senior Lecturer, Massey University
 
 ### Andrew Mather
-PhD 2016 – Environmental consultant 
+
+PhD 2016 – Environmental consultant
 
 ### Ambrocio (Din) Matias
+
 PhD 2019 – Assistant Professor, University of Philippines Diliman
 
 ### Iva Popovic
+
 PhD 2019 – Research Associate, University of Queensland
 
-### Danielle Shanahan 
-Primary supervisor: Possingham
-PhD 2010
+### Danielle Shanahan
+
+Primary supervisor: Possingham PhD 2010
 
 ### Joshua Thia
-Supervisors: Riginos & McGuigan
-PhD 2019 – Research Associate, University of Melbourne
+
+Supervisors: Riginos & McGuigan PhD 2019 – Research Associate, University of Melbourne
 
 ## MS students
 
 ### Meredith Kraina
+
 MSc 2018
 
 ### Adam Dinsdale
-Primary supervisor: Buckley
-MSc 2012
+
+Primary supervisor: Buckley MSc 2012
 
 ### Kristin Douglas
+
 MSc 2008
 
 ### Sinan-Saleh Kassam
+
 MSc 2022
 
 ### Chuan Lei
+
 MSc 2020
 
 ## Honours students
+
 ### Mariam Khan
+
 2022
 
 ### Samantha Howitt
+
 2021
 
 ### Ilha Byrne
+
 2021
 
 ### Jenny Evans
+
 2018
 
 ### Lucie Malard
+
 2014
 
 ### Lachlan Gleeson
+
 2012
 
 ### Gabriel Dominguez
+
 2011
 
 ### Carrie Sims
+
 2011
 
 ### Carla Meers
+
 2010
 
 ### Andrew Mather
+
 2009
 
 ### Anna Mirams
+
 2009
 
 ### Janne Torkkola
+
 2009
 
 ### Jolene Wong
+
 2008
 
 ### Gwen David
+
 2007
-
-
