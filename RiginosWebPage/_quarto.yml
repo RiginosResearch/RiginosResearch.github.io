@@ -6,7 +6,7 @@ website:
   title: "Riginos Research Group"
   navbar:
     left:
-      - href: CR.qmd
+      - href: index.qmd
         text: Cynthia Riginos
       - href: UQ.qmd
         text: UQ Research Group
