@@ -1,0 +1,23 @@
+---
+title: "Professor Cynthia Riginos"
+---
+
+::::::: {.animate__animated .animate__fadeIn .animate__faster .animate__delay-0s}
+:::::: {layout="[ 30, 70 ]"}
+::: {#first-column}
+![](photos/cynthia.jpg)
+:::
+
+:::: {#second-column column.width="70%"}
+**Cynthia Riginos** is an evolutionary geneticist with wide-ranging interests spanning population genomics, seascape genetics, molecular ecology, speciation, hybridization, invasive species, and conservation. Overall, her research seeks to understand how marine biodiversity is created, where that biodiversity has accumulated, and how this knowledge can be used preserve biodiversity and the processes that create it in a changing world. Her research uses genetic tools to uncover how dispersal (gene flow) and adaptation (natural selection) affect genomic variation and limit gene exchange across genomes, populations, and species. Her work has uncovered guiding principles for how seascapes and species’ attributes affect dispersal and adaptation. Cynthia is especially fond of corals, reef fishes, and mollusks but easily distracted by other taxa.<br>
+
+Since 2024, Cynthia has been the Research Team Leader of the Coral Reef Adaptation group at the [Australian Institute of Marine Sciences (AIMS)](www.aims.gov.au), whose goal is to support coral reefs to maximize the evolutionary resilience of populations, species and ecological communities”. At AIMS, Cynthia leads research focusing on eco-evolutionary dynamics of Great Barrier Reef corals as part of the [Reef Restoration and Adaptation Program (RRAP)](gbrrestoration.org) and has initiated a genetic monitoring program as part of the [Pilot Deployments Project](https://www.aims.gov.au/research-topics/environmental-issues/climate-change/reef-restoration-and-adaptation-program/pilot-deployments-program). Much of this work is through the collaborative EvoReef group.<br>
+
+Cynthia also maintains a part time position as a Professor in the [School of Environmental Sciences](environment.uq.edu.au) at the University of Queensland. Cynthia has been at UQ since 2006 and previously held an endowed postdoctoral fellowship in Molecular Evolution & Comparative Genomics at Duke University. Her PhD (2000) and Master’s (1998) degrees are both from the University of Arizona in Ecology and Evolutionary Biology. <br>
+
+::: {style="text-align: center; margin-top: 30px;"}
+<a href="https://bsky.app/profile/seaprof.bsky.social" class="btn btn-outline-primary btn-sm me-2" style="margin: 5px;">🦋 Bluesky</a> <a href="https://github.com/criginos1" class="btn btn-outline-dark btn-sm me-2" style="margin: 5px;">📁 GitHub</a> <a href="https://scholar.google.com/citations?user=3PEknw0AAAAJ&hl" class="btn btn-outline-success btn-sm me-2" style="margin: 5px;">🎓 Google Scholar</a> <a href="https://orcid.org/0000-0002-5485-4197" class="btn btn-outline-info btn-sm" style="margin: 5px;">🔗 ORCID</a>
+:::
+::::
+::::::
+:::::::

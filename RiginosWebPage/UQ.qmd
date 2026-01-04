@@ -1,9 +1,5 @@
 ---
-title: "Riginos Research Group"
-subtitle: "marine evolutionary genetics"
-editor_options: 
-  chunk_output_type: console
-toc: false
+title: "Riginos Research @ UQ"
 ---
 
 # Welcome to our lab webpage!
@@ -21,3 +17,4 @@ Major research themes:
 **Biological invasions, historical and modern** – What factors facilitate species expanding their ranges and colonising new habitat? How do colonising populations adapt to novel environments? Does hybridisation with local species enhance invasiveness and rapid evolution?
 
 ![](photos/cynthia_multiverse.jpg)
+
