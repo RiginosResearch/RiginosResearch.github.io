@@ -1,6 +1,6 @@
 ---
-title: "{{< animate fadeIn 'Riginos Research Group' >}}"
-subtitle: "{{< animate fadeIn 'marine evolutionary genetics' >}}"
+title: "Riginos Research Group"
+subtitle: "marine evolutionary genetics"
 editor_options: 
   chunk_output_type: console
 toc: false
